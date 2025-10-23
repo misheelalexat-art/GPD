@@ -11,7 +11,7 @@ import Contacto from "./componentes/Contacto";
 import Nosotras from "./componentes/Nosotras";
 import Footer from "./componentes/Footer";
 import Boton from "./componentes/Boton";
-import Calendario from "./componentes/calendario";
+import Calendario from "./componentes/Calendario";
 import Hero_inicio from "./componentes/hero_inicio";
 import Navbar_1 from "./componentes/navbar_1";
 import Footer_1 from "./componentes/Footer_1";
