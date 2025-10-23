@@ -1,0 +1,90 @@
+[
+  {
+    "departamento": "Amazonas",
+    "capital": "Chachapoyas",
+    "platos_tipicos": [
+      "Juane de arroz con gallina regional",
+      "Cecina con tacacho",
+      "Inchicapi (sopa de maní con gallina)",
+      "Patarashca de pescado",
+      "Caldo de gallina regional"
+    ]
+  },
+  {
+    "departamento": "San Martín",
+    "capital": "Moyobamba",
+    "platos_tipicos": [
+      "Tacacho con cecina y chorizo",
+      "Inchicapi de gallina",
+      "Ensalada de chonta",
+      "Juane de yuca",
+      "Sopa de carachama"
+    ]
+  },
+  {
+    "departamento": "Huánuco",
+    "capital": "Huánuco",
+    "platos_tipicos": [
+      "Picante de cuy",
+      "Pachamanca huanuqueña",
+      "Caldo verde",
+      "Locro de gallina",
+      "Juanes de gallina"
+    ]
+  },
+  {
+    "departamento": "Pasco",
+    "capital": "Cerro de Pasco",
+    "platos_tipicos": [
+      "Trucha frita con yuca",
+      "Tacacho con cecina",
+      "Patarashca amazónica",
+      "Sopa de motelo",
+      "Cau cau de sachapapa"
+      ]
+  },
+  {
+    "departamento": "Junín",
+    "capital": "Huancayo",
+    "platos_tipicos": [
+      "Juane chanchamino",
+      "Caldo de gallina",
+      "Tacacho con cecina",
+      "Sopa verde de Satipo",
+      "Ensalada de palmito"
+    ]
+  },
+  {
+    "departamento": "Loreto",
+    "capital": "Iquitos",
+    "platos_tipicos": [
+      "Patarashca de pescado",
+      "Inchicapi de gallina",
+      "Tacacho con cecina",
+      "Juane de arroz con gallina",
+      "Suri frito (larva del aguaje)"
+    ]
+  },
+  {
+    "departamento": "Ucayali",
+    "capital": "Pucallpa",
+    "platos_tipicos": [
+      "Tacacho con cecina",
+      "Inchicapi de gallina regional",
+      "Patarashca",
+      "Sopa de carachama",
+      "Juane de yuca"
+    ]
+  },
+  {
+    "departamento": "Madre de Dios",
+    "capital": "Puerto Maldonado",
+    "platos_tipicos": [
+      "Patarashca amazónica",
+      "Juane de arroz con gallina",
+      "Tacacho con cecina",
+      "Sopa de motelo",
+      "Cazuela de pescado"
+    ]
+  }
+]

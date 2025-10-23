@@ -1,0 +1,59 @@
+{
+    "destinos": [
+{
+      "id": 1,
+      "region": "Apurímac",
+      "text": "Cuy chactado, Kapchi de habas, Trucha frita",
+      "img": "apu1.jpg"
+    },
+    {
+      "id": 2,
+      "region": "Ayacucho",
+      "text": "Puca picante, Mondongo ayacuchano, Qapchi de queso",
+      "img": "aya1.jpg"
+    },
+    {
+      "id": 3,
+      "region": "Cajamarca",
+      "text": "Cuy con papas, Caldo verde, Humitas cajamarquinas",
+      "img": "caja1.jpg"
+    },
+    {
+      "id": 4,
+      "region": "Cusco",
+      "text": "Chiriuchu, Kapchi de setas, Olluquito con charqui",
+      "img": "cus1.jpg"
+    },
+    {
+      "id": 5,
+      "region": "Huancavelica",
+      "text": "Trucha frita, Patachi, Mondongo huancavelicano",
+      "img": "Mondongo_huancavelicano.jpg"
+    },
+    {
+      "id": 6,
+      "region": "Huánuco",
+      "text": "Pachamanca a la huanuqueña, Locro de gallina, Caldo de mote",
+      "img":"hua1.jpg"
+     },
+    {
+      "id": 7,
+      "region": "Junín",
+      "text": "Trucha a la parrilla, Papa a la huancaína, Pachamanca juninense",
+      "img": "jun1.jpg"
+    },
+    {
+      "id": 8,
+      "region": "Pasco",
+      "text": "Caldo de cabeza, Charquicán, Pachamanca",
+      "img":"Charquicán.jpg"
+    },
+    {
+      "id": 9,
+      "region": "Puno",
+      "text": "Chairo puneño, Cancacho, Sopa de quinua",
+      "img": "pun1.jpg"
+    }
+     ]
+}
+  

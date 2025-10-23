@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #7b3f00;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.logo {
+  position: fixed;       
+  top: 5px;              
+  left: 30px;            
+  width: 50px;           
+  height: auto;          
+  z-index: 9999;
+}
+
+.card {
+  background-color: #eef3bc;
+}

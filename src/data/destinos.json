@@ -1,0 +1,95 @@
+{
+  "selva_alta": [
+    {
+      "departamento": "Amazonas",
+      "capital": "Chachapoyas",
+      "descripcion": "Ubicado en la parte norte del Perú, tiene una geografía montañosa con bosques nublados y paisajes verdes. Destaca por la fortaleza de Kuélap y sus cataratas.",
+      "img": "kuelap.jpg",
+      "festividades": [
+        "Fiesta de San Juan - 24 de junio",
+        "Carnavales de Chachapoyas - febrero",
+        "Aniversario de Chachapoyas - 5 de septiembre"
+      ]
+    },
+    {
+      "departamento": "San Martín",
+      "capital": "Moyobamba",
+      "descripcion": "Conocido por su clima cálido y su gran biodiversidad. Produce café, cacao y arroz. Tarapoto es una de sus ciudades más turísticas.",
+      "img": "catarata-de-ahuashiyacu.jpg",
+      "festividades": [
+        "Fiesta de San Juan - 24 de junio",
+        "Festival de la Orquídea - octubre",
+        "Carnavales de Tarapoto - febrero"
+      ]
+    },
+    {
+      "departamento": "Huánuco",
+      "capital": "Huánuco",
+      "descripcion": "Combina zonas andinas y de selva alta. Es famoso por su clima agradable y su producción agrícola, como el plátano y el café.",
+      "img": "tingomaria.jpg",
+      "festividades": [
+        "Carnavales Huanuqueños - febrero",
+        "Fiesta de San Juan - 24 de junio",
+        "Semana Turística de Tingo María - julio"
+      ]
+    },
+    {
+      "departamento": "Pasco",
+      "capital": "Cerro de Pasco",
+      "descripcion": "Aunque su capital es andina, en la provincia de Oxapampa se encuentra una de las zonas más bellas de la selva alta, con reservas naturales y comunidades nativas.",
+      "img": "oxapampa.jpg",
+      "festividades": [
+        "Festival Selvámonos (Oxapampa) - junio",
+        "Fiesta de San Juan - 24 de junio",
+        "Aniversario de Oxapampa - 30 de agosto"
+      ]
+    },
+    {
+      "departamento": "Junín",
+      "capital": "Huancayo",
+      "zona_representativa": "Satipo",
+      "descripcion": "Tiene una región selvática muy extensa en Satipo y Chanchamayo. Destaca por sus cataratas, frutas tropicales y cultura asháninka.",
+      "img": "chanchamayo.jpg",
+      "festividades": [
+        "Fiesta de San Juan - 24 de junio",
+        "Festival del Café y la Maca - agosto",
+        "Aniversario de Satipo - 25 de septiembre"
+      ]
+    }
+  ],
+  "selva_baja": [
+    {
+      "departamento": "Loreto",
+      "capital": "Iquitos",
+      "descripcion": "Es el departamento más grande del Perú y está completamente cubierto por la Amazonía. Iquitos, su capital, solo es accesible por vía aérea o fluvial.",
+      "img": "iquitos.jpg",
+      "festividades": [
+        "Fiesta de San Juan - 24 de junio",
+        "Carnavales de Iquitos - febrero",
+        "Aniversario de Iquitos - 5 de enero"
+      ]
+    },
+    {
+      "departamento": "Ucayali",
+      "capital": "Pucallpa",
+      "descripcion": "Ubicado en el centro-oriente del país, es una zona de selva baja con una economía basada en la madera, el cacao y la ganadería.",
+      "img": "pucallpa.jpg",
+      "festividades": [
+        "Fiesta de San Juan - 24 de junio",
+        "Festival del Cacao - julio",
+        "Aniversario de Pucallpa - 13 de octubre"
+      ]
+    },
+    {
+      "departamento": "Madre de Dios",
+      "capital": "Puerto Maldonado",
+      "descripcion": "Conocido como el 'corazón de la Amazonía', posee una enorme biodiversidad y alberga reservas naturales como el Manu y Tambopata.",
+      "img": "tambopata.jpg",
+      "festividades": [
+        "Fiesta de San Juan - 24 de junio",
+        "Festival de la Biodiversidad - noviembre",
+        "Aniversario de Puerto Maldonado - 26 de diciembre"
+      ]
+    }
+  ]
+}

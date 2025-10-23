@@ -1,0 +1,86 @@
+/* === IMPORTAR FUENTE POPPINS === */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+/* === NAVBAR GENERAL === */
+.navbar {
+  background-color: #e98d8d; /* color igual al original */
+  color: white;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 0.8rem 2rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  font-family: "Poppins", sans-serif;
+}
+
+/* === CONTENEDOR PRINCIPAL === */
+.container {
+ 
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* === LOGO Y TEXTO === */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.brand span {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+/* === MENÚ DE NAVEGACIÓN === */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 400;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.nav-link.active {
+  color: #fff;
+  font-weight: 700; /* Costa destacada */
+}
+
+/* === RESPONSIVE (para móviles) === */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .nav-links {
+    gap: 1.5rem;
+  }
+
+  .brand span {
+    font-size: 1.2rem;
+  }
+}

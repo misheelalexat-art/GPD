@@ -1,0 +1,83 @@
+/* Contenedor principal */
+.departamentos {
+  padding: 60px 0;
+  background-color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Grid */
+.departamentos .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.departamentos .row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+/* Columnas */
+.departamentos .col {
+  flex: 1 1 300px;
+  max-width: 360px;
+}
+
+/* Tarjetas */
+.card {
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+  background-color: #f3d5bc;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0px 6px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Imágenes */
+.card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+/* Cuerpo de la tarjeta */
+.card-body {
+  padding: 20px;
+}
+
+.card-body h5 {
+  font-weight: 700;
+  color: #2d2d2d;
+  margin-bottom: 10px;
+}
+
+.card-body p {
+  font-size: 15px;
+  color: #444;
+  line-height: 1.6;
+}
+
+.card-body strong {
+  color: #000;
+}
+
+/* Animación de entrada */
+.animar {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: aparecer 0.8s ease forwards;
+}
+
+@keyframes aparecer {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+

@@ -1,0 +1,59 @@
+{
+    "destinos": [
+        {
+            "id": 1,
+            "titulo": "Machu Picchu - Cusco",
+            "text": "Maravilla del mundo, símbolo del Imperio Inca, rodeada de montañas y misterio.",
+            "imagen": "mac.jpg"
+        },
+                {
+            "id": 2,
+            "titulo": "Huánuco",
+            "text": "Posee importantes atractivos turísticos, con nevados, cordilleras, cálidos valles y selvas amazónicas.",
+            "imagen": "hua.jpg"
+        },
+                        {
+            "id": 3,
+            "titulo": "Pasco",
+            "text": "Cerro de Pasco, la llamada Ciudad Real de Minas, se convirtió en el sustituto natural de Potosí.",
+            "imagen": "pasco.jpg"
+        },
+                        {
+            "id": 4,
+            "titulo": "Apurímac",
+            "text": "Se concentra en la crianza de ganado y la agricultura.",
+            "imagen": "apu.jpg"
+        },
+                                {
+            "id": 5,
+            "titulo": "Huancavelica",
+            "text": "Paisajes andinos, sitios arqueológicos y riqueza cultural.",
+            "imagen": "huanc.jpg"
+        },
+                                        {
+            "id": 6,
+            "titulo": "Puno",
+            "text": "Ciudad del Lago Sagrado, hogar del lago Titicaca.",
+            "imagen": "puno.jpg"
+        },
+                                        {
+            "id": 7,
+            "titulo": "Junin",
+            "text": "Cataratas y valles con paisajes en su estado más puro.",
+            "imagen": "junin.jpg"
+        },
+                                        {
+            "id": 8,
+            "titulo": "Ayacucho",
+            "text": "Ciudad de las iglesias y capital del arte popular, famosa por su Semana Santa.",
+            "imagen": "ayc.jpg"
+        },
+                                        {
+            "id": 9,
+            "titulo": "Cajamarca",
+            "text": "Historia inca y colonial, hermosos paisajes y relajantes baños termales.",
+            "imagen": "cjj.jpg"
+        }
+
+    ]
+}
