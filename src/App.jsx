@@ -102,7 +102,7 @@ function App() {
           path="/costa"
           element={
             <>
-              <Gato />
+              <Gato /> 
               <Titulo />
               <Departamentos />
               <Calendario_costa/>

@@ -12,7 +12,7 @@ function Gato() {
         {/* Marca */}
         <div className="flex items-center space-x-2">
           <img
-            src="./public/logo.png"
+            src="./logo.png"
             alt="Logo Costa del Perú"
             className="w-10 h-10 object-contain"
           />

@@ -15,7 +15,7 @@ function Departamentos() {
 
           <div className="col">
             <div className="card animar" data-aos="zoom-in">
-              <img src="public\c1t.jpg" alt="Manglares de Tumbes" />
+              <img src="./c1t.jpg" alt="Manglares de Tumbes" />
               <div className="card-body">
                 <h5>Tumbes – Manglares de Tumbes</h5>
                 <p>
@@ -39,7 +39,7 @@ function Departamentos() {
           {/* Piura */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c2p.jpg" alt="Playa de Máncora" />
+              <img src="./c2p.jpg" alt="Playa de Máncora" />
               {/*<img src="../img/c2p.jpg" alt="Playa de Máncora" />*/}
               <div className="card-body">
                 <h5>Piura – Playa de Máncora</h5>
@@ -65,7 +65,7 @@ function Departamentos() {
           {/* Lambayeque */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c3l.jpg" alt="Complejo Arqueológico de Túcume" />
+              <img src="./c3l.jpg" alt="Complejo Arqueológico de Túcume" />
               <div className="card-body">
                 <h5>Lambayeque – Túcume</h5>
                 <p>
@@ -89,7 +89,7 @@ function Departamentos() {
           {/* La Libertad */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c4l.jpg" alt="Chan Chan" />
+              <img src="./c4l.jpg" alt="Chan Chan" />
               <div className="card-body">
                 <h5>La Libertad – Chan Chan</h5>
                 <p>
@@ -113,7 +113,7 @@ function Departamentos() {
           {/* Áncash */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c5a.jpg" alt="Playa Tuquillo" />
+              <img src="./c5a.jpg" alt="Playa Tuquillo" />
               <div className="card-body">
                 <h5>Áncash – Playa de Tuquillo</h5>
                 <p>
@@ -136,7 +136,7 @@ function Departamentos() {
           {/* Lima */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c6l.png" alt="Circuito Mágico del Agua" />
+              <img src="./c6l.png" alt="Circuito Mágico del Agua" />
               <div className="card-body">
                 <h5>Lima – Circuito Mágico del Agua</h5>
                 <p>
@@ -160,7 +160,7 @@ function Departamentos() {
           {/* Ica */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c7h.jpg" alt="Huacachina" />
+              <img src="./c7h.jpg" alt="Huacachina" />
               <div className="card-body">
                 <h5>Ica – Huacachina</h5>
                 <p>
@@ -184,7 +184,7 @@ function Departamentos() {
           {/* Arequipa */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c8a.jpg" alt="Valle de Majes" />
+              <img src="./c8a.jpg" alt="Valle de Majes" />
               <div className="card-body">
                 <h5>Arequipa – Valle de Majes</h5>
                 <p>
@@ -207,7 +207,7 @@ function Departamentos() {
           {/* Moquegua */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c9m.jpg" alt="Plaza de Armas Moquegua" />
+              <img src="./c9m.jpg" alt="Plaza de Armas Moquegua" />
               <div className="card-body">
                 <h5>Moquegua – Plaza de Armas</h5>
                 <p>
@@ -230,7 +230,7 @@ function Departamentos() {
           {/* Tacna */}
           <div className="col">
             <div className="card animar">
-              <img src="public\c10t.jpg" alt="Petroglifos de Miculla" />
+              <img src="./c10t.jpg" alt="Petroglifos de Miculla" />
               <div className="card-body">
                 <h5>Tacna – Petroglifos de Miculla</h5>
                 <p>
