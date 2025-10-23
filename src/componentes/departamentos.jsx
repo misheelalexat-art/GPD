@@ -1,5 +1,5 @@
 import React from "react";
-import "./Departamentos.css";
+import "./departamentos.css";
 
 function Departamentos() {
   return (

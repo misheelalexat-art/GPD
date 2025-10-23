@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Formulario_costa.css";
+import "./formulario_costa.css";
 
 export default function Formulario_costa() {
   const [formData, setFormData] = useState({

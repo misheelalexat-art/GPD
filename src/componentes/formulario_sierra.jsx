@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import "./Formulario_sierra.css";
+import "./formulario_sierra.css";
 
 function Formulario_sierra() {
   return (

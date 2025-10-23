@@ -1,5 +1,5 @@
 import React from "react";
-import "./Footer_costa.css"; // Archivo CSS separado
+import "./footer_costa.css"; // Archivo CSS separado
 
 export default function Footer_costa() {
   return (
